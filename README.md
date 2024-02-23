@@ -32,7 +32,6 @@ I'm a passionate mobile app developer who enjoys learning new things and finding
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/babg007)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/qr/4VVZ5CJXYT4UN1)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/u/Avadhkumar?utm_medium=android_app&utm_source=share)
 [![X](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Avadhkumar007)
 
