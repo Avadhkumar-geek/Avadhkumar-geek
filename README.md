@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I'm AVΔDH
 
-### About Me
 I'm a passionate mobile app developer who enjoys learning new things and finding clever solutions. My main aim is to stay updated and get better at what I do, while also creating helpful apps for everyone.
 
 ### Tech Stack
