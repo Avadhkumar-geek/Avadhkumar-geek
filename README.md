@@ -26,7 +26,7 @@ I'm a passionate mobile app developer who enjoys learning new things and finding
 ![Android Studio](https://img.shields.io/badge/Android%20studio-0e2e1d?logo=android+studio&logoColor=3DDC84&style=for-the-badge) 
 ![VS Code](https://img.shields.io/badge/VS%20code-0c273b?logo=visual+studio+code&logoColor=007ACC&style=for-the-badge)
 
-#### GitHub Statistics
+### GitHub Statistics
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=avadhkumar-geek&show_icons=true&theme=codeSTACKr&rank_icon=percentile)](https://github.com/avadhkumar-geek)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avadhkumar-geek&theme=tokyonight&background=09131C&border=0C1A25&stroke=D9582B&fire=D9582B&ring=D9582B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=D9582B&dates=F2DF2E&currStreakLabel=D9582B)](https://github.com/avadhkumar-geek)
 
